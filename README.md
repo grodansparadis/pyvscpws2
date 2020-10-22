@@ -1,2 +1,2 @@
 # pyvscpws2
-VSCP websocket 2 interface code  for Python
+VSCP websocket ws2 interface code for Python
